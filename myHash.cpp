@@ -1,4 +1,4 @@
-/*----------------sha256-----------*/
+/*----------------mysha256-----------*/
 #include "sha256.h"
 #include <stdio.h>
 #include <stdlib.h>
